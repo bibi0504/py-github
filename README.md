@@ -1,3 +1,6 @@
+# Hi, Hello
+
+<!--
 <h2>GitHub Follow Bot</h2>&nbsp;<img align="right" width="35%" src="logo.png">
 
 <h2> Developed by @CodeShopFx. please push "star" button. thanks</h2>
@@ -160,3 +163,4 @@ If you find a bug, kindly open an [bug report issue](/../../issues/new?assignees
 - [GitHub API](https://docs.github.com/en/rest)
 - [Top GitHub Users By Country](https://github.com/gayanvoice/top-github-users)
 - [GitHub-Follow-Bot](https://github.com/TheDarkAssassins/Github-Follow-Bot)
+-->
